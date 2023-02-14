@@ -1,0 +1,22 @@
+Start Menu/Main Menu
+ Start
+ Option
+  -Volume
+ Exit
+
+Game
+ Boat controls Left and right with arrow keys
+ hook controls by mouse clicking
+
+ if hook touched any part of a fish it catch the fish
+
+ each fish has different point (mentioned with their name)
+ some things like shoe, snakes have minus points (not design yet )
+
+Levels
+ -L1 - 150 points, 60 seconds (Level Complete/ Game Over Bacground)
+ -L2 - 175 points, 50 seconds (Level Complete/ Game Over Bacground)
+ -L3 - 200 points, 45 seconds (Congratulations You Win Bacground)
+ Each level has only 4 - 15 point fish, 8 - 10 point fish & others 5 point fish
+
+ 
